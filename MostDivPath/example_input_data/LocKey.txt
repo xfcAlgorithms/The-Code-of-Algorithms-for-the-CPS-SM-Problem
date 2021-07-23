@@ -1,0 +1,20 @@
+1	41.085396	-73.530767	Pharmacy,Gas Station,Church,Nail Salon
+2	41.086098	-73.530538	Pharmacy,Gas Station,Church,Zoo,Chiropractor,Nail Salon,River,Laundry Service,Residential Building (Apartment / Condo)
+3	41.048796	-73.519366	Dive Bar,Church,Pool,Bank,Ice Cream Shop
+4	41.048654	-73.519377	Dive Bar,Church,Pool,Bank,Gym / Fitness Center,Pizza Place,Gas Station
+5	41.093796	-73.524567	Neighborhood,Caf茅,Dog Run,Jewelry Store,Nail Salon,Miscellaneous Shop,Cultural Center,Sushi Restaurant,Shopping Mall,Residential Building (Apartment / Condo),Deli / Bodega
+6	41.093834	-73.52549	Neighborhood,Caf茅,Sushi Restaurant,Jewelry Store,Nail Salon,Cultural Center,Miscellaneous Shop,Other Event,Bank,Shopping Mall,Residential Building (Apartment / Condo),Deli / Bodega,Nightlife Spot,Baseball Field
+7	41.110484	-73.531927	High School,Baseball Field,Factory,Gym,Middle School,Assisted Living,Bank
+8	41.110611	-73.530106	High School,Baseball Field,Factory
+9	41.125895	-73.529341	Summer Camp,Other Great Outdoors,History Museum,High School,Synagogue
+10	41.127369	-73.529746	Summer Camp,Synagogue,Other Great Outdoors,History Museum,Professional & Other Places
+11	41.125051	-73.530583	Other Great Outdoors,High School,Synagogue,History Museum,Assisted Living,Neighborhood,Surf Spot,Casino,School
+12	41.085358	-73.529763	Pharmacy,Gas Station,Church,Nail Salon,Garden
+13	41.086062	-73.529834	Pharmacy,Gas Station,Church,Garden,Nail Salon
+14	41.065086	-73.613384	Tennis Court,School,Building,Social Club,Pharmacy
+15	41.065131	-73.615019	Building,School,Garden Center,Pharmacy,Bank,Cemetery,State / Provincial Park,Gym
+16	41.058075	-73.693133	Medical Center,Rehab Center,Gym / Fitness Center
+17	41.059296	-73.694273	Medical Center,Rehab Center,High School,Building,Assisted Living,Airport,Pub,Snack Place,Pool
+18	41.287431	-73.51223	Athletics & Sports,City,Sculpture Garden,Elementary School,Pizza Place
+19	41.286556	-73.511896	Elementary School,City,Sculpture Garden,Pizza Place,Gym / Fitness Center,Church,Spiritual Center,Building
+20	41.286067	-73.501634	City,Historic Site,Eye Doctor,Restaurant,Park,Playground,Residential Building (Apartment / Condo),Asian Restaurant,Gym / Fitness Center,Miscellaneous Shop
